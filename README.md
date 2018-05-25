@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## COntribute
 
 ## Payment
+
+## GIT STATUS 
+
+## GIT WITHOUT PUSH 
